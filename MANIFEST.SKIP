@@ -1,4 +1,7 @@
 ^diff_to_blead\.pl$
+\.git\b
+\.gitignore$
+\bMYMETA\..*$
 
 # Default section:
 # Avoid version control files.
